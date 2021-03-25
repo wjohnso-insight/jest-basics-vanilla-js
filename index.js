@@ -1,1 +1,1 @@
-console.log('Vanilla Jest Project is running...');
+console.log('Jest Basics is running...')
