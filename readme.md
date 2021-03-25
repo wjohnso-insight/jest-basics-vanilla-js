@@ -1,0 +1,2 @@
+# Vanilla Jest JS Template
+
